@@ -127,4 +127,5 @@
 </table>
 
 <br />
-Link to <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS Tricks</a>
+Links to other sources on Flexbox<br />
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS Tricks Flexbox</a>
