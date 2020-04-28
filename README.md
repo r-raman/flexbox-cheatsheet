@@ -3,9 +3,9 @@
         <th colspan="3">Flex Properties</th>
     </tr>
     <tr>
-        <td>Property</td>
-        <td>Value</td>
-        <td>Comments</td>
+        <td align="center">Property</td>
+        <td align="center">Value</td>
+        <td align="center">Comments</td>
     </tr>
     <tr>
         <th colspan="3">Container</td>
@@ -125,3 +125,6 @@
         <td># auto (default) takes value of align-items from the container</td>
     </tr>
 </table>
+
+<br />
+Link to <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS Tricks</a>
